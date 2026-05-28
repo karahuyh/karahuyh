@@ -4,3 +4,8 @@ I am a Business Analyst Graduate with a passion for using data to drive meaningf
 
 - Melbourne, Australia
 - Bachelor of Business Analytics and Analysis, Swinburne University of Technology 
+
+## Languages
+- SQL, Python, R
+## Viz tools
+- Tableau, PowerBI, Excel
