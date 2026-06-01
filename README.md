@@ -4,9 +4,9 @@ Business Analytics graduate with a passion for transforming data into actionable
 
 I am experienced in data analysis, visualization, and business intelligence, with a strong foundation in extracting, cleaning, and interpreting data to solve real-world problems.
 
-- Data wrangling, cleaning and ETL processes
+- Data wrangling, cleaning and ETL processes.
 - SQL for data querying and analysis.
-- Dashboards development using Tableau and PowerBI
+- Dashboards development using Tableau and PowerBI.
 - Data analysis and reporting with Google Sheets and Excel.
 
 📍 Melbourne, Australia
