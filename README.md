@@ -1,13 +1,12 @@
 ## Hello World, I'm Kara 👋
 
-Business Analytics graduate with a passion for transforming data into actionable insights and driving data-informed decision-making. 
+I am a Business Analytics graduate with a strong interest in business analysis, data analytics and process improvement. I enjoy transforming data into actionable insights, solve business problems and support decision-making.
 
-I am experienced in data analysis, visualization, and business intelligence, with a strong foundation in extracting, cleaning, and interpreting data to solve real-world problems.
-
-- Data wrangling, cleaning and ETL processes.
-- SQL for data querying and analysis.
-- Dashboards development using Tableau and PowerBI.
-- Data analysis and reporting with Google Sheets and Excel.
+## What I do
+- 📊 Data wrangling, cleaning and ETL processes.
+- 🗄️ SQL for data querying and analysis.
+- 📈 Develop interactive dashboards and reports using Tableau and PowerBI.
+- 📋 Data analysis and reporting with Google Sheets and Excel.
 
 📍 Melbourne, Australia
 
@@ -17,8 +16,12 @@ I am experienced in data analysis, visualization, and business intelligence, wit
 - Language: SQL, Python, R
 - Database: MySQL
 - Visualization: Tableau, PowerBI, Seaborn
+- Process Mapping, Business Process Modeling, Swimlane Diagrams, User Stories
+
+## Projects
+- [Tableau Portfolio](https://public.tableau.com/app/profile/dang.nhut.anh.huynh/vizzes)
+- [ Notion Portfolio ](https://app.notion.com/p/Welcome-to-Kara-s-Portfolio-232ccccc3c7b80dbb51ffb9674636cc9)
   
 ## Let's Connect!
-- Linkedin: https://www.linkedin.com/in/karahuynh777/
-- Notion: https://app.notion.com/p/Welcome-to-Kara-s-Portfolio-232ccccc3c7b80dbb51ffb9674636cc9
+- [Linkedin](https://www.linkedin.com/in/karahuynh777/)
 
