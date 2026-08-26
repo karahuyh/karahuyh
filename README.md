@@ -1,4 +1,4 @@
-## Hello World, I'm Kara 👋
+## I'm Kara 👋
 
 I am a Business Analytics graduate with a strong interest in business analysis, data analytics and process improvement. I enjoy transforming data into actionable insights, solve business problems and support decision-making.
 
@@ -24,4 +24,5 @@ I am a Business Analytics graduate with a strong interest in business analysis, 
   
 ## Let's Connect!
 - [Linkedin](https://www.linkedin.com/in/karahuynh777/)
+- karahuynh.ba@gmail.com
 
